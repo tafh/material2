@@ -43,8 +43,8 @@ An example of chip input placed outside the chip-list element.
 ```html
 <md-form-field>
   <md-chip-list #chipList>
-    <md-chip>Chip 1<md-chip>
-    <md-chip>Chip 2<md-chip>
+    <md-chip>Chip 1</md-chip>
+    <md-chip>Chip 2</md-chip>
   </md-chip-list>
   <input mdChipInputFor="chipList">
 </md-form-field>
